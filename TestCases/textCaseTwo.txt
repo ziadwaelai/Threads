@@ -1,0 +1,2 @@
+input   N=10 ,buffer=8  ||  output  lagest Prime 7 # of prime numbers 4   time 7ms  
+"2","3","5","7",
